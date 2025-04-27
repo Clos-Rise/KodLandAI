@@ -3,6 +3,8 @@
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+https://huggingface.co/Darkester/HIGGS-X
+
 <p align="center">
   <img src="https://example.com/kodlandai_logo.gif" alt="KodLandAI Logo" width="400"/>
 </p>
